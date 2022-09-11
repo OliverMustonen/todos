@@ -1,0 +1,16 @@
+.title {
+    flex: 1;
+    cursor: pointer;
+}
+.complete {
+    text-decoration: line-through;
+    color: #8b8b8b8b;
+}
+.is-invalid {
+    color: rgb(255, 25, 25);
+    font-size: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1rem;
+}
